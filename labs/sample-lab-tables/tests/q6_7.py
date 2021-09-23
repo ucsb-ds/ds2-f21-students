@@ -1,1 +1,0 @@
-test = {'name': 'q6_7', 'points': 1, 'suites': [{'cases': [{'code': '>>> sb_markets.num_rows == 5\nTrue', 'hidden': False, 'locked': False}], 'scored': True, 'setup': '', 'teardown': '', 'type': 'doctest'}]}

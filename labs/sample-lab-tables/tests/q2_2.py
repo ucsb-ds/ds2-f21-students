@@ -1,1 +1,0 @@
-test = {'name': 'q2_2', 'points': 1, 'suites': [{'cases': [{'code': '>>> imdb2019.num_rows == 250\nTrue', 'hidden': False, 'locked': False}], 'scored': True, 'setup': '', 'teardown': '', 'type': 'doctest'}]}
